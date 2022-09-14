@@ -8,7 +8,7 @@ A: Detailed specifications can be found at https://turingpi.com/
 
 #2
 Q: Which compute modules does TPI2 support?
-A: TPI2 currently supports Raspberry Pi CM4, Nvidia Jetson Nano, Nvidia Jetson TX2 NX, Nvidia Jetson Xavier NX. You can find detailed information about the support in their respective FAQ category.
+A: TPI2 currently supports Raspberry Pi CM4, Nvidia Jetson Nano version B01, Nvidia Jetson TX2 NX, Nvidia Jetson Xavier NX. You can find detailed information about the support in their respective FAQ category.
 
 #3
 Q: What storage options are supported on TPI2?
@@ -24,7 +24,7 @@ A: TPI2 uses an Allwinner T113-s3 to manage itself, like firmware and fan header
 
 #6
 Q: What case do I need for TPI2?
-A: TPI2 has a standard ITX size. Hight wise, you can use a 1.5U or 2U case or 68mm case hight.
+A: TPI2 has a standard mini ITX size. Hight wise, you can use a 1.5U or 2U case or 68mm case hight.
 
 #7
 Q: Can I plug SO-DIMM RAM stick into TPI2?
