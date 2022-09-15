@@ -50,7 +50,7 @@ Yes. Details can be found here https://www.kickstarter.com/projects/turingpi/tur
 Yes. Details can be found here https://www.kickstarter.com/projects/turingpi/turing-pi-cluster-board/posts/3514333
 
 ### What can I do with TPI2 BMC?
-TBD
+With the BMC (baseboard management controller) the Turing Pi 2 firmware offers a set of remote management functions such as serial console over LAN, remote OS image flashing, authentication, self-testing, and Over-The-Air management
 
 ## DOCUMENTATION
 
@@ -124,7 +124,8 @@ No
 ## NVIDIA JETSON
 
 ### Which compute modules are supported?
-TBD
+Jetson Nano (version B01 only),  Jetson TX2 NX, Jetson Xavier NX
+
 
 ### Which coolers/heatsink can I with Nvidia Jetson on TPI2?
 TBD
