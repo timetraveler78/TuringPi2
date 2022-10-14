@@ -29,7 +29,7 @@ No.
 ### Can I hotplug Compute Modules into TPI2?
 Yes
 
-### Can I use the nvme slot with a compute module
+### Can I use the nvme slot with a Raspberry Pi Compute Module 4?
 No, the compute module does not support the nvme slot, a jetson tx2 NX or a Xavier NX does support it
 
 ### Can I run Turing RK1, Raspberry Pi and Nvidia Jetson modules at the same time?
@@ -124,6 +124,9 @@ TBD
 ## Does TPI2 come with CM4?
 No
 
+## Does the Raspberry Pi Compute Module support the NVMe slot?
+No, you need to use a RK Compute Module or a jetson tx2 NX or a Xavier NX does support it.
+
 ## NVIDIA JETSON
 
 ### Which compute modules are supported?
@@ -137,6 +140,9 @@ TBD
 
 ### Whats a Turing RK1?
 TBD
+
+### Does the Turing RK1 support the NVMe slot?
+Yes.
 
 ## MISC
 
