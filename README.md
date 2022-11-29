@@ -30,7 +30,7 @@ No.
 Yes
 
 ### Can I use the nvme slot with a Raspberry Pi Compute Module 4?
-No, the compute module does not support the nvme slot, a jetson tx2 NX or a Xavier NX does support it
+No, the compute module does not support the nvme slot, a jetson Nano B01, jetson tx2 NX or a Xavier NX does support it
 
 ### Can I run Turing RK1, Raspberry Pi and Nvidia Jetson modules at the same time?
 You can run any combination of all supported compute modules.
