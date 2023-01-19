@@ -58,7 +58,7 @@ With the BMC (baseboard management controller) the Turing Pi 2 firmware offers a
 ## DOCUMENTATION
 
 ### Where can I find the documentation for TPI2?
-Documentation can be found [https://help.turingpi.com/](HERE). The documentation is currently a work in progess.
+Documentation can be found at https://help.turingpi.com/. The documentation is currently a work in progess.
 
 ### When will be the documentation for TPI2 available?
 Limited documentation is currently available and is currently being improved.
@@ -75,7 +75,7 @@ No. Turing Pi V1 is a different device.
 The turing Pi has been shipped to initial backers.
 
 ### When can I order TPI2?
-The Turing Pi 2 can be ordered now from [https://turingpi.com/](HERE).
+The Turing Pi 2 can be ordered now from https://turingpi.com/.
 
 ### I need to make changes to my existing order. How?
 TBD
