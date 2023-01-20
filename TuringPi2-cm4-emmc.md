@@ -8,7 +8,7 @@ This also means you can't put an SD card in with pre-installed linux to image th
 - Please have the rpiboot application installed on your desktop or laptop. 
   - Installation steps are excellently provided by Jeff Geerling on his blog: https://www.jeffgeerling.com/blog/2020/how-flash-raspberry-pi-os-compute-module-4-emmc-usbboot
   - Follow the steps for MAC / Linux / Windows up to installation of the product.
-- Own a USB-A to USB-A cable to connect to your laptop. The writer of this document has success using this cable from Amazon: [USB-A to USB-A male cable]([https://www.amazon.nl/dp/B004TJ574C?&linkCode=sl2&tag=basthout-21&linkId=8036820d6df87ae1ba8ef957dfb32d40&language=nl_NL&ref_=as_li_ss_tl](https://www.amazon.nl/dp/B004TJ574C?&linkCode=sl2&linkId=8036820d6df87ae1ba8ef957dfb32d40&language=nl_NL&ref_=as_li_ss_tl))
+- Own a USB-A to USB-A cable to connect to your laptop. The writer of this document has success using this cable from Amazon: [USB-A to USB-A male cable](https://www.amazon.nl/dp/B004TJ574C?&linkCode=sl2&linkId=8036820d6df87ae1ba8ef957dfb32d40&language=nl_NL&ref_=as_li_ss_tl)
 - Make sure the node is powered off.
 - Know how to login to the BMC webinterface
 
