@@ -69,6 +69,9 @@ TBD
 ### I've found the documentation for Turing Pi. Can I use that with TPI2?
 No. Turing Pi V1 is a different device.
 
+### How can I flash an operating system on my CM4 with onboard eMMC?
+Please have a look at this tutorial [How to flash Linux on a CM4 with eMMC in a TuringPi2](/TuringPi2-cm4-emmc)
+
 ## LOGISTICAL
 
 ### When will TPI2 ship?
